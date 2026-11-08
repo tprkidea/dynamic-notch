@@ -10,4 +10,4 @@ Windows 10/11 x64 için medya kontrolleri, takvim, hava durumu, pano geçmişi v
 
 [Gizlilik politikası](PRIVACY.md)
 
-Arayüz simgeleri: [Flaticon Home Screen Apps](https://www.flaticon.com/packs/home-screen-apps-40).
+Arayüz simgeleri: Flaticon Home Screen Apps.
